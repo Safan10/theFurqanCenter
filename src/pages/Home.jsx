@@ -104,8 +104,9 @@ Jazakallah khair.
           </div>
           <div className="testimonial-card">
             <p>
-              Asslamu Alaikum ji Alhamdulillah hamein The furqan center classes se bht fayda huwa maine kabhi soxha hi nhi tha ke main kabhi quran ka tarjuma Sikh sakungi lkn Allah ke karam se aur maullima farzana Apa ki mehnat se  Alhamdulillah bht Acche se samaz raha hai
+              Asslamu Alaikum ji Alhamdulillah hamein the furqan center  classes se bht fayda huwa maine kabhi soxha hi nhi tha ke main kabhi quran ka tarjuma Sikh sakungi lkn Allah ke karam se aur maullima  ki mehnat se  Alhamdulillah bht Acche se samaz raha hai
 Obht hi Asan tariqe se mujhe aur mere friends ko tarjuma sikha rahe hain Allah unhein jazaye khair dein Ameen.
+
             </p>
             <span>— Asma, Qatar</span>
           </div>
