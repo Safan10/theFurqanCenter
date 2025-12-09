@@ -210,7 +210,7 @@ The teacher follows up regularly with his work, guides him patiently, and makes 
           </div>
           <div className="testimonial-card">
             <p>
-           السلامُ عليكم و رحمةُ اللهِ و بركاتُهُ
+          السلامُ عليكم و رحمةُ اللهِ و بركاتُهُ
 
 Alhamdulillāh, me and my daughters have been studying at The Furqan Center for the past four years, and it has truly been a blessing for our home.
 
@@ -218,7 +218,7 @@ My youngest daughter, Aameena, has grown immensely under her Muʿallimah’s gui
 
 My other daughter, Ayesha, has benefitted in so many areas as well. She has learned Tafsīr, started her ḥifẓ, memorised Sunnahs, basic Dīnīyāt, Duʿās and so much more, alhamdulillāh. Her confidence and love for the Qur’an have increased day by day.
 
-As for myself, I have completed 10 para Tafseer tarjuma alhumdulillah learned Sunnahs, daily Duʿās, basic Arabic, and many beneficial lessons that have brought me closer to understanding the Qur’ān. Bi’idhnillāh, the knowledge I gained here will continue to benefit my family.
+As for myself, I have completed 10 Surah Tafseer tarjuma alhumdulillah learned Sunnahs, daily Duʿās, basic Arabic, and many beneficial lessons that have brought me closer to understanding the Qur’ān. Bi’idhnillāh, the knowledge I gained here will continue to benefit my family.
 
 Even though we reside in Qatar, The Furqan Center has provided flexible timings that made it easy and comfortable for us to attend consistently. Our Ustādhah is hardworking, sincere, and exceptionally polite with her students. Her passion for teaching reflects in every class.
 

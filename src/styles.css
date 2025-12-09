@@ -369,3 +369,11 @@ body{
   color:#7de4c3;
   font-weight:600;
 }
+.btn-islamic {
+  display: inline-block;
+  margin: 24px auto 40px auto;  /* adds spacing above & below */
+}
+
+.course-grid {
+  margin-bottom: 30px;   /* keeps button away from last course */
+}
