@@ -377,3 +377,17 @@ body{
 .course-grid {
   margin-bottom: 30px;   /* keeps button away from last course */
 }
+
+.poster-section {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.poster-img {
+  width: 150%;
+  max-width: 500px;   /* significantly bigger */
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+
+

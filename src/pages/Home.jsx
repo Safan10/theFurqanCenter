@@ -1,6 +1,7 @@
 import Logo from "../components/Logo";
 import Hadith from "../components/Hadith";
 import { Link } from "react-router-dom";
+import freePoster from "../assets/freeclass.jpeg";
 
 export default function Home() {
   return (
@@ -23,6 +24,20 @@ export default function Home() {
         </div>
 
         <Hadith />
+
+        {/* FREE CLASS POSTER */}
+<section className="poster-section">
+  <h2 className="islamic-title">
+    Free Online Class Updates
+  </h2>
+
+  <img
+    src={freePoster}
+    alt="Free Qur'an class poster update"
+    className="poster-img"
+  />
+</section>
+
 
         {/* COURSES */}
         <h2 className="islamic-title">Courses Offered</h2>
@@ -247,6 +262,31 @@ JazakAllahu Khairan
             </p>
             <span>— Rabia
 , Qatar</span>
+          </div>
+          <div className="testimonial-card">
+            <p>
+          I had a wonderful experience learning the Qur’an with Furqan center, The class timings were very convenient, and she is truly an excellent teacher. She patiently cleared all my doubts and always provided clear explanations, even for the smallest questions. As a revert to Islam, I received so much guidance from her throughout my journey, and I’m extremely grateful for her support. She is honestly one of the best teachers I’ve ever had.
+
+            </p>
+            <span>— Mariyam
+, Bengaluru</span>
+          </div>
+          <div className="testimonial-card">
+            <p>
+           Assalamu alaikum rahamtullhi …ji Alhamdulillha The Furqan center.ju class's ham late hain  Quran ka tarjuma ur tafseer sekh Rahe hain usse  hame bahat hi fayeda ho raha hai turjuma seeqhna bahuth mushkil samjhi thi  Magar baji lafz ba.lafz tarjuma sekhate hain❤️‍🩹 hame bahat Asaan Hua tafser ke sath hi sath bahat se acche baten batati  hain asan Tariqe se sajhte hain  Allah unkin mehnatun ko  qubool kare uska rewards de aameen summa Aameen.
+
+            </p>
+            <span>— Tahseenunnisa
+, Karnataka</span>
+          </div>
+          <div className="testimonial-card">
+            <p>
+           As salaam u alay kum wr wb 
+Main Syedah Noorul Nigar from Bihar (Purnea). Maine Al Furqan centre me tajweed ki class ki thi.
+Alhamdulillah mera experience bahot achcha rha.Tajweed seekhne ka behtareen moqa mila Allah k Fazal se.Furqan centre se hmne ghar baithe aaram se online classes attend ki or Alhamdulillah hmari ustaz Ukhti Shub bahot hi politely hme tajweed ki class krayi.Ma Sha Allah...Allah unki mehnat qubool farmayen...aameen
+            </p>
+            <span>— Noorul Nigar
+, Bihar</span>
           </div>
         </div>
       </section>
