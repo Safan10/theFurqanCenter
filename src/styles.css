@@ -318,10 +318,12 @@ body{
 =========================== */
 
 .testimonials{
-  padding:70px 20px;
+  padding:20px 10px;     /* Reduced from 70px */
   background:#f0f7f4;
   text-align:center;
+  /* Pulls section closer to button */
 }
+
 
 /* TITLE */
 .testimonials .islamic-title{
@@ -369,13 +371,16 @@ body{
   color:#7de4c3;
   font-weight:600;
 }
-.btn-islamic {
-  display: inline-block;
-  margin: 24px auto 40px auto;  /* adds spacing above & below */
+
+.btn-islamic{
+  display:inline-block;
+  margin:16px 0;
 }
 
+
+
 .course-grid {
-  margin-bottom: 30px;   /* keeps button away from last course */
+  margin-bottom: 20px;   /* keeps button away from last course */
 }
 
 .poster-section {
@@ -390,4 +395,7 @@ body{
   box-shadow: 0 6px 15px rgba(0,0,0,0.25);
 }
 
-
+.poster-apply-btn{
+  margin-top:15px;
+  text-align:center;
+}

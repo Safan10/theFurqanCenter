@@ -36,7 +36,15 @@ export default function Home() {
     alt="Free Qur'an class poster update"
     className="poster-img"
   />
+   <div className="poster-apply-btn">
+    <Link to="/apply" className="btn-islamic">
+      Apply Now
+    </Link>
+  </div>
+
+ 
 </section>
+
 
 
         {/* COURSES */}
