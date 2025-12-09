@@ -1,0 +1,371 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Scheherazade+New&display=swap');
+
+body{
+  margin:0;
+  background:
+     linear-gradient(120deg,#e8f5f1,#fff);
+  font-family: "Cinzel", serif;
+}
+
+/* Page Wrapper */
+.page{
+  text-align:center;
+  max-width:750px;
+  margin:auto;
+  padding:50px 20px;
+}
+
+/* Logo */
+.logo{
+  font-size:4rem;
+  color:#0a7b65;
+}
+.logo-text{
+  display:block;
+  letter-spacing:4px;
+  font-size:1.2rem;
+}
+
+/* Logo Styling */
+.logo{
+  font-size:3.5rem;
+  color:#0a7b65;
+  margin-bottom:10px;
+}
+
+.logo-text{
+  font-size:1.6rem;
+  letter-spacing:5px;
+  text-transform:uppercase;
+  margin-top:5px;
+  color:#044a3a;
+  font-weight:bold;
+}
+
+
+/* Titles */
+h1 span{
+  color:#0a7b65;
+}
+.subtitle{
+  color:#444;
+}
+
+/* Buttons */
+.btn{
+  display:inline-block;
+  padding:14px 30px;
+  border-radius:50px;
+  background:#0a7b65;
+  color:white;
+  text-decoration:none;
+  margin-top:20px;
+}
+
+/* Hadith */
+.hadith{
+ background:#f3fff9;
+ border-radius:10px;
+ padding:25px;
+ margin:40px 0;
+}
+.arabic{
+   font-family: "Scheherazade New", serif;
+   font-size:28px;
+   direction:rtl;
+   color:#065;
+}
+
+/* Courses */
+.courses{
+  list-style: none;
+  padding:0;
+}
+.courses li{
+  background:white;
+  margin:10px 0;
+  padding:12px;
+  border-radius:8px;
+}
+
+/* Form */
+.form{
+   max-width:450px;
+   margin:auto;
+}
+input,textarea,button{
+   width:100%;
+   padding:12px;
+   border-radius:8px;
+   border:1px solid #ddd;
+   margin:8px 0;
+}
+button{
+   background:#0a7b65;
+   color:white;
+   border:none;
+}
+
+
+.hero-img{
+  width:100%;
+  max-width:380px;
+  margin:30px auto;
+  display:block;
+  border-radius:18px;
+  box-shadow:0px 10px 30px rgba(0,0,0,0.15);
+}
+
+
+.stats{
+  background:#f0fff9;
+  padding:18px;
+  border-radius:12px;
+  margin:30px 0;
+  border-left:5px solid #0a7b65;
+}
+
+.stats h3{
+   color:#0a7b65;
+   margin-bottom:5px;
+}
+.section-title{
+  color:#0a7b65;
+  margin-top:40px;
+}
+
+.course-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+  gap:15px;
+  margin-top:20px;
+}
+
+.course-card{
+  background:white;
+  padding:14px;
+  border-radius:10px;
+  font-size:0.95rem;
+  box-shadow:0 5px 12px rgba(0,0,0,0.08);
+  transition:0.2s ease;
+  border-left:4px solid #0a7b65;
+}
+
+.course-card:hover{
+   transform: translateY(-3px);
+   background:#f3fff9;
+}
+.main-title{
+  font-size:2.3rem;
+  color:#0a7b65;
+  margin:10px 0 25px;
+  font-weight:600;
+}
+.apply-title{
+  color:#0a7b65;
+}
+
+.apply-title span{
+   color:#066;
+}
+
+.apply-img{
+  width:100%;
+  max-width:340px;
+  margin:20px auto;
+  display:block;
+  border-radius:15px;
+  box-shadow:0px 10px 25px rgba(0,0,0,0.15);
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Scheherazade+New:wght@700&display=swap');
+
+/* LOGO / BRAND HEADER */
+.logo-wrapper{
+  text-align:center;
+  margin-bottom:10px;
+}
+
+.logo-img{
+   width:90px;       /* SMALL BUT NOTICEABLE */
+   height:auto;
+   border-radius:50%;
+   margin-bottom:10px;
+   box-shadow:0px 6px 18px rgba(0,0,0,0.15);
+}
+
+.site-title{
+  font-family:'Playfair Display', serif;
+  font-size:2.7rem;        /* LARGE STYLISH TITLE */
+  letter-spacing:4px;
+  color:#0a7b65;
+  margin:6px 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Scheherazade+New:wght@700&display=swap');
+
+/* LOGO / BRAND HEADER */
+.logo-wrapper{
+  text-align:center;
+  margin-bottom:10px;
+}
+
+.logo-img{
+   width:90px;       /* SMALL BUT NOTICEABLE */
+   height:auto;
+   border-radius:50%;
+   margin-bottom:10px;
+   box-shadow:0px 6px 18px rgba(0,0,0,0.15);
+}
+
+.site-title{
+  font-family:'Playfair Display', serif;
+  font-size:2.7rem;        /* LARGE STYLISH TITLE */
+  letter-spacing:4px;
+  color:#0a7b65;
+  margin:6px 0;
+}
+/* =============================
+   I S L A M I C   U I   K I T
+   ============================= */
+
+:root{
+  --primary: #0a7b65;
+  --secondary: #044a3a;
+  --bg: #f3fff9;
+  --gold: #c7a252;
+}
+
+body{
+  background:
+     linear-gradient(135deg,#e8f5f1,#ffffff);
+}
+.islamic-title{
+   font-family: 'Playfair Display', serif;
+   text-transform:uppercase;
+   letter-spacing:3px;
+   color:var(--primary);
+}
+.arabic{
+  font-family: 'Scheherazade New', serif;
+  direction:rtl;
+  font-size:26px;
+  color:var(--secondary);
+}
+.btn-islamic{
+  background:var(--primary);
+  color:white;
+  border-radius:99px;
+  padding:12px 28px;
+  letter-spacing:1px;
+}
+.card-islamic{
+  background:white;
+  border-left:4px solid var(--gold);
+  border-radius:12px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.08);
+}
+/* HADITH LAYOUT */
+
+;
+
+
+/* HADITH STYLED BOX */
+
+.hadith{
+  background:#dff2ec;                 /* Slightly darker box */
+  border-left:5px solid #0a7b65;
+  border-radius:14px;
+  padding:25px;
+  margin:40px 0;
+  box-shadow:0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* FLEX ROW */
+.hadith-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:18px;
+}
+
+/* QURAN ICON */
+
+.quran-icon{
+  width:155px;       /* ZOOOMED UP */
+  height:155px;
+  border-radius:50%;
+  object-fit:cover;
+  border:3px solid #0a7b65;
+  box-shadow:
+    0 6px 14px rgba(0,0,0,0.15),
+    0 0 0 4px rgba(10,123,101,0.12);
+}
+
+
+/* IMAGE BEFORE HADITH */
+
+.hadith-top-image{
+  width:90%;
+  max-width:750px;               /* SAME CONTAINER WIDTH AS HADITH */
+  display:block;
+  margin:40px auto 20px auto;
+  border-radius:18px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.15);
+  object-fit:cover;
+}
+
+/* ===========================
+   TESTIMONIALS
+=========================== */
+
+.testimonials{
+  padding:70px 20px;
+  background:#f0f7f4;
+  text-align:center;
+}
+
+/* TITLE */
+.testimonials .islamic-title{
+  margin-bottom:40px;
+}
+
+/* GRID */
+/* STACK TESTIMONIALS ONE BELOW ANOTHER */
+
+.testimonial-grid{
+  display:flex;
+  flex-direction:column;
+  gap:25px;
+  max-width:850px;
+  margin:0 auto;
+}
+
+
+/* DARK COMMENT BOX */
+.testimonial-card{
+  background:#0a1e1b;   /* DARK BOX */
+  color:#ffffff;
+  padding:25px;
+  border-radius:18px;
+  text-align:left;
+  box-shadow:0 10px 25px rgba(0,0,0,0.25);
+  transition:.3s ease;
+}
+
+/* HOVER EFFECT */
+.testimonial-card:hover{
+  transform:translateY(-6px);
+}
+
+/* TEXT */
+.testimonial-card p{
+  font-size:15px;
+  line-height:1.6;
+  opacity:0.9;
+}
+
+.testimonial-card span{
+  display:block;
+  margin-top:12px;
+  color:#7de4c3;
+  font-weight:600;
+}
