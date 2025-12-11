@@ -296,6 +296,56 @@ Alhamdulillah mera experience bahot achcha rha.Tajweed seekhne ka behtareen moqa
             <span>— Noorul Nigar
 , Bihar</span>
           </div>
+          <div className="testimonial-card">
+            <p>
+          Attending the Furqan Quran Classes has been a truly enriching experience. The sessions greatly helped me improve my Quran reading skills, making my learning journey both productive and rewarding.
+In addition to Quran recitation, I also had the opportunity to learn the basics of the Arabic language.
+The institute regularly offers Taleem classes, which serve as a valuable source of insight into Deen. 
+Overall, Furqan Quran Classes are an excellent platform for anyone seeking to strengthen their Quranic skills, gain foundational Arabic knowledge, and grow spiritually. I highly recommend them to others who wish to embark on a similar journey of learning and self-improvement.
+</p>
+            <span>— Falak
+, Jeddah</span>
+          </div>
+          <div className="testimonial-card">
+            <p>
+           As salaam wa Alaikum wa rahmathullahi wa barakatuhu ! Alhamdulillah v happy n satisfied with Furqan Centre teaching skill n knowledge,Allah swt grant this institute with khair n baraka n bless d teachers with good rewards....Aameen
+In shaa Allah  🙌🏻🧕🏻💖🪄💝✨🤲🏻👩🏻‍🏫🧑🏻‍🏫🧕🏻💖✨🙌🏻</p>
+            <span>— Sadiya
+, Qatar</span>
+          </div>
+           <div className="testimonial-card">
+            <p>
+          Alhamdulillah, I have thoroughly enjoyed attending classes at Furqan Center for the past four years. Currently, I am taking a break due to my studies, but I plan to rejoin in the future to continue my journey of learning. My ustazah has been incredibly patient and polite, guiding me through various courses I enrolled in, including Tajweed, Arabic grammar basics, daily Sunnahs, and Duas. 
+
+I would also like to highlight the wonderful efforts of Sister Bint-e-Farooq (my ustazah), who tirelessly teaches women and children, empowering them with knowledge of Deen. May Allah reward her for her dedication and commitment to spreading the knowledge of Deen. Ameen.
+
+            </p>
+            <span>— Qulsum
+, Qatar</span>
+          </div>
+           <div className="testimonial-card">
+            <p>
+         Furqan Center's Quran class has been a game-changer for me. I've witnessed a significant boost in my recitation skills and understanding of the Quran. The teacher's passion and commitment to my development is truly inspiring, and I feel fortunate to be part of this community.
+
+
+            </p>
+            <span>— Iffath
+, Jeddah</span>
+          </div>
+           <div className="testimonial-card">
+            <p>
+          I joined Furqan Center during a very busy phase of my life, and it has truly been one of the best decisions for my Arabic and Quran learning journey. With career responsibilities and a hectic routine, I never thought I would find a online program that fits so perfectly into my schedule.
+
+The evening classes are a blessing — they allow me to learn comfortably at my own pace and at a time that suits me. The teacher at Furqan Center is incredibly knowledgeable and supportive. Their clear explanations, patience, and excellent teaching methods have helped me understand Arabic better and recite the Quran correctly.
+
+I am genuinely grateful for the opportunity and guidance Furqan Center provides. It has made a remarkable difference in my learning and spiritual growth.
+
+May Allah accept all our efforts and reward the entire team of Furqan Center for their dedication and service.
+
+            </p>
+            <span>— Showqhiya
+, Bengaluru</span>
+          </div>
         </div>
       </section>
     </>
