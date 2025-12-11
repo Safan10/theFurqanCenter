@@ -25,7 +25,7 @@ export default function Home() {
 
         <Hadith />
 
-        {/* FREE CLASS POSTER */}
+        {/* FREE CLASS POSTER 
 <section className="poster-section">
   <h2 className="islamic-title">
     Free Online Class Updates
@@ -45,7 +45,7 @@ export default function Home() {
  
 </section>
 
-
+*/}
 
         {/* COURSES */}
         <h2 className="islamic-title">Courses Offered</h2>
